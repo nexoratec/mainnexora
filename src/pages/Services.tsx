@@ -104,7 +104,7 @@ const Services = () => {
                     </div>
                   </div>
                   <div className="flex items-center justify-center md:justify-end">
-                    <a href="tel:+18338212533">
+                    <a href="tel:+18336118332">
                       <Button
                         size="lg"
                         className="bg-primary hover:bg-primary/90 text-white font-bebas text-lg px-6 py-6 rounded-xl glow-orange transition-smooth hover:scale-105"
@@ -133,7 +133,7 @@ const Services = () => {
                 size="lg"
                 className="font-bebas text-lg border-primary text-primary hover:bg-primary hover:text-white transition-smooth"
               >
-                CALL: +1 (833) 821-2533
+                CALL: +1 (833) 611-8332
               </Button>
             </a>
           </div>

@@ -45,10 +45,10 @@ const Navigation = () => {
                 {item.name}
               </Link>
             ))}
-            <a href="tel:+18338212533">
+            <a href="tel:+18336118332">
               <Button className="ml-2 bg-primary hover:bg-primary/90 text-white font-bebas px-4 py-2 rounded-lg glow-orange transition-smooth hover:scale-105">
                 <Phone size={18} className="mr-2" />
-                +1 (833) 821-2533
+                +1 (833) 611-8332
               </Button>
             </a>
           </div>
@@ -79,10 +79,10 @@ const Navigation = () => {
                 {item.name}
               </Link>
             ))}
-            <a href="tel:+18338212533" onClick={() => setIsOpen(false)}>
+            <a href="tel:+18336118332" onClick={() => setIsOpen(false)}>
               <Button className="w-full bg-primary hover:bg-primary/90 text-white font-bebas px-4 py-3 rounded-lg glow-orange transition-smooth">
                 <Phone size={18} className="mr-2" />
-                +1 (833) 821-2533
+                +1 (833) 611-8332
               </Button>
             </a>
           </div>

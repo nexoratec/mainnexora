@@ -52,7 +52,7 @@ const Refund = () => {
               <h2 className="text-2xl font-bebas text-foreground mb-4">HOW TO REQUEST A REFUND</h2>
               <p className="mb-4">To request a refund, please follow these steps:</p>
               <ol className="list-decimal list-inside space-y-2 ml-4">
-                <li>Contact our customer service team via phone at 1-800-NEXORA or email at refunds@nexora.tech</li>
+                <li>Contact our customer service team via phone at +1 (833) 611-8332 or email at refunds@nexora.tech</li>
                 <li>Provide your account number and reason for cancellation</li>
                 <li>Schedule equipment return with our logistics team</li>
                 <li>Return all equipment within 14 days of cancellation</li>
@@ -130,7 +130,7 @@ const Refund = () => {
                 For refund inquiries or to initiate a refund request:
                 <br /><br />
                 Email: refunds@nexora.tech<br />
-                Phone: 1-800-NEXORA<br />
+                Phone: +1 (833) 611-8332<br />
                 Hours: Monday-Friday, 9AM-6PM EST<br />
                 Address: 123 Tech Plaza, Digital City, DC 12345
               </p>

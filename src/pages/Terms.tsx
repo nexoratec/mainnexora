@@ -127,7 +127,7 @@ const Terms = () => {
                 For questions about these Terms and Conditions:
                 <br /><br />
                 Email: legal@nexora.tech<br />
-                Phone: 1-800-NEXORA<br />
+                Phone: +1 (833) 611-8332<br />
                 Address: 123 Tech Plaza, Digital City, DC 12345
               </p>
             </section>

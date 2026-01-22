@@ -127,7 +127,7 @@ const Pricing = () => {
                   ))}
                 </ul>
 
-                <a href="tel:+18338212533">
+                <a href="tel:+18336118332">
                   <Button
                     className={`w-full font-bebas text-lg py-6 rounded-xl transition-smooth ${
                       plan.popular

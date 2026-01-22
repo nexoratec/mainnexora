@@ -190,9 +190,9 @@ const Index = () => {
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 Get instant help from our expert team. Real humans, real solutions, available 24/7.
               </p>
-              <a href="tel:+18338212533">
+              <a href="tel:+18336118332">
                 <Button className="w-full bg-vibrant-yellow hover:bg-vibrant-yellow/90 text-background font-bebas text-lg py-6 rounded-xl transition-smooth hover:scale-105">
-                  CALL NOW: +1 (833) 821-2533
+                  CALL NOW: +1 (833) 611-8332
                 </Button>
               </a>
             </Card>
@@ -205,9 +205,9 @@ const Index = () => {
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 Schedule installation or maintenance at your convenience. Same-day service available.
               </p>
-              <a href="tel:+18338212533">
+              <a href="tel:+18336118332">
                 <Button className="w-full bg-vibrant-green hover:bg-vibrant-green/90 text-background font-bebas text-lg py-6 rounded-xl transition-smooth hover:scale-105">
-                  CALL NOW: +1 (833) 821-2533
+                  CALL NOW: +1 (833) 611-8332
                 </Button>
               </a>
             </Card>
@@ -220,9 +220,9 @@ const Index = () => {
               <p className="text-muted-foreground mb-6 leading-relaxed">
                 Let us fix that immediately. Quick troubleshooting and instant solutions.
               </p>
-              <a href="tel:+18338212533">
+              <a href="tel:+18336118332">
                 <Button className="w-full bg-vibrant-pink hover:bg-vibrant-pink/90 text-background font-bebas text-lg py-6 rounded-xl transition-smooth hover:scale-105">
-                  CALL NOW: +1 (833) 821-2533
+                  CALL NOW: +1 (833) 611-8332
                 </Button>
               </a>
             </Card>
@@ -414,12 +414,12 @@ const Index = () => {
             Ready to experience the future of internet? Get in touch with our team 
             and discover the perfect plan for your needs.
           </p>
-          <a href="tel:+18338212533">
+          <a href="tel:+18336118332">
             <Button
               size="lg"
               className="bg-primary hover:bg-primary/90 text-white font-bebas text-lg sm:text-xl px-6 sm:px-8 py-5 sm:py-6 rounded-xl glow-orange transition-smooth hover:scale-105"
             >
-              CALL NOW: +1 (833) 821-2533 <ArrowRight className="ml-2" size={18} />
+              CALL NOW: +1 (833) 611-8332 <ArrowRight className="ml-2" size={18} />
             </Button>
           </a>
         </div>
