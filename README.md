@@ -1,3 +1,15 @@
+# Deployment Status
+
+![Deploy to GitHub Pages](https://github.com/nexoratec/nexora/actions/workflows/deploy.yml/badge.svg?branch=main)
+
+## Custom Domain
+
+This site is automatically published to GitHub Pages on every push to the `main` branch.
+
+**Custom domain:** [nexoranett.com](https://nexoranett.com)
+
+The `public/CNAME` file ensures the custom domain is always set correctly during deployment.
+
 # Welcome to your Lovable project
 
 ## Project info
